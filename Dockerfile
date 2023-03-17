@@ -1,1 +1,1 @@
-FROM  redis:6
+FROM  mysql:5.7.41
